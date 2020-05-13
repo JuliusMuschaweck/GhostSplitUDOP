@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>GhostSplitUDOP</RootNamespace>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Interop.LightTools">
+      <HintPath>..\..\..\..\..\..\..\Program Files\Optical Research Associates\LightTools 8.7.0\Utilities.NET\Interop.LightTools.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.LTUDSimulation">
+      <HintPath>..\..\..\..\..\..\..\Program Files\Optical Research Associates\LightTools 9.0.0\Interop.LTUDSimulation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
