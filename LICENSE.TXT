@@ -1,0 +1,3 @@
+I dedicate the GhostSplitUDOP project to the public domain under Creative Commons Zero 
+(https://creativecommons.org/publicdomain/zero/1.0/legalcode)
+Julius Muschaweck, May 13, 2020
