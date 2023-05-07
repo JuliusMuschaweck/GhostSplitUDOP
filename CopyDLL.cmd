@@ -1,0 +1,1 @@
+copy bin\Release\netstandard2.0\GhostSplitUDOP.dll .\GhostSplitUDOP.dll
