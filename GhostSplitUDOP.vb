@@ -1,3 +1,9 @@
+' To get started, add two references:
+' Project->Add Shared Project Reference
+' -> Browse
+' C:\Program Files\Optical Research Associates\LightTools 2024.09\Utilities.NET
+' Interop.LightTools.dll and Interop.LTUDSimulation.dll
+
 Imports LTUDSimulation
 Imports System.Math
 Public Class GhostSplitUDOP

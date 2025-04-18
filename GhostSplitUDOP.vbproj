@@ -7,10 +7,10 @@
 
   <ItemGroup>
     <Reference Include="Interop.LightTools">
-      <HintPath>..\..\..\..\..\..\..\Program Files\Optical Research Associates\LightTools 8.7.0\Utilities.NET\Interop.LightTools.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\..\Program Files\Optical Research Associates\LightTools 2024.09\Utilities.NET\Interop.LightTools.dll</HintPath>
     </Reference>
     <Reference Include="Interop.LTUDSimulation">
-      <HintPath>..\..\..\..\..\..\..\Program Files\Optical Research Associates\LightTools 9.0.0\Interop.LTUDSimulation.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\..\Program Files\Optical Research Associates\LightTools 2024.09\Interop.LTUDSimulation.dll</HintPath>
     </Reference>
   </ItemGroup>
 
